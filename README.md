@@ -7,9 +7,19 @@ Measuring customer satisfication,giving guidance on financial matters,personal m
 
 
 Bot service helps customer know about services and products offering from bank .Customer can get information about 
-i)how to block a card 
+
+i)How to block a card
+
 ii)Report lost or stolen card
-iii)modify card limit
-iv)card PIN generation
-v)information about check in accounts
-vi) information about mortgage loans
+
+iii)Modify card limit
+
+iv)Card PIN generation
+
+v)Information about check in accounts
+
+vi) Information about mortgage loans
+
+vii) book meeting with Advisor
+
+Viii) Request a call back
