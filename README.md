@@ -5,6 +5,8 @@ With the use of bot bank will be able to reduce some pressure from customer supp
 Bot will be helpfull to assign task to correct support persona and strem line routine bank office staff. Also it would be possible to give  24X7 customer support.
 Measuring customer satisfication,giving guidance on financial matters,personal marketing startegies etc.
 
+We will create a simple bot with basic feature.Initially there will not be any 3rd party  integration but we will explore more in future.
+Our Bot will have only QnA maker and Knowledge base.
 
 Bot service helps customer know about services and products offering from bank .Customer can get information about 
 
