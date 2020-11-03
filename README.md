@@ -76,11 +76,15 @@ LUIS is an service which adds conversational intelligence to bots.Its possible t
  The service can be tested in below link with proper key:
  https://www.luis.ai/conversations/applications
  
- Pricings:
-Free unlimited transactions,with 10 transactions per second.
+Pricings:
+
+Free unlimited transactions,with 10 transactions per second
+
 Standard -50 per second 
-        $ 1.50 for 1000 text messages
-        $ 5.50 for 1000 voicemails.
+
+$ 1.50 for 1000 text messages
+
+$ 5.50 for 1000 voicemails.
         
 # Text Analytics API
  This is used to find out the sentiment in a sentence or word.It is used in identifying 
@@ -96,9 +100,11 @@ extract infromtaion from text.It use machine learning  algorithm to generate a s
  https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/56f30ceeeda5650db055a3c6/console
  
  Pricing:
+ 
  Free: 5,000 transactions per month
 
 Standard:
+
 0-500,000 messages - $ 2 for 1,000 messages
 
 0.5M-2.5M messages - $ 1 for 1,000 messages
