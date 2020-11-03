@@ -53,6 +53,7 @@ Category 3: Potential presence of language that might be considered offensive in
  https://westus2.dev.cognitive.microsoft.com/docs/services/57cf753a3f9b070c105bd2c1/operations/57cf753a3f9b070868a1f66f/console
  
  Pricing :
+ 
  0-1M transactions - $ 1 per 1,000 transactions
 
 1M-5M transactions - $ 0.75 per 1,000 transactions
