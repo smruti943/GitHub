@@ -32,7 +32,7 @@ In the first phase we created below three services for our bot:
 3.Text Analytics API
 
 
-#1.Content Moderator
+1.Content Moderator
 
 As the name suggest Content moderator help stemline the contents.Azure provides machine assited content
 moderation for images,text and video.Bascically the content are dived in to three parts namely
