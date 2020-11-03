@@ -1,4 +1,4 @@
-# Sprawozdanie 1
+# Azure Cognitive Language Services Report
 # Smruti Sanjeeta Jena
 In this lab we will create a chatbot for a bank website.The bot will be the first level of contact for any type of information.
 Based upon the customer interaction bot will show appropriate informations and when necessary guide the customer.
