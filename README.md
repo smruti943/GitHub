@@ -2,8 +2,8 @@
 # Smruti Sanjeeta Jena
 In this lab we will create a chatbot for a bank website.The bot will be the first level of contact for any type of information.
 Based upon the customer interaction bot will show appropriate informations and when necessary guide the customer.
-With the use of bot bank will be able to reduce some pressure from customer support represntatives.
-Bot will be helpfull to assign task to correct support persona and strem line routine bank office staff. Also it would be possible to give  24X7 customer support.
+With the use of bot,bank will be able to reduce some pressure from customer support represntatives.
+Chatbot will be helpfull to assign task to correct support persona and strem line routine bank office staff. Also it would be possible to give  24X7 customer support.
 Measuring customer satisfication,giving guidance on financial matters,personal marketing startegies etc.
 
 We will create a simple bot with basic feature.Initially there will not be any 3rd party  integration but we will explore more in future.
