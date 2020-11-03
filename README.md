@@ -1,4 +1,5 @@
-# GitHub
+# Sprawozdanie 1
+# Smruti Sanjeeta Jena
 In this lab we will create a chatbot for a bank website.The bot will be the first level of contact for any type of information.
 Based upon the customer interaction bot will show appropriate informations and when necessary guide the customer.
 With the use of bot bank will be able to reduce some pressure from customer support represntatives.
@@ -31,9 +32,7 @@ In the first phase we created below three services for our bot:
 2.Language Understanding Intelligent Service (LUIS)
 3.Text Analytics API
 
-
-1.Content Moderator
-
+# Content Moderator
 As the name suggest Content moderator help stemline the contents.Azure provides machine assited content
 moderation for images,text and video.Bascically the content are dived in to three parts namely
  a.Profanity
@@ -62,10 +61,9 @@ Category 3: Potential presence of language that might be considered offensive in
 
 10M + transactions - $ 0.40 per 1,000 transactions
 
+# Language Understanding Intelligent Service (LUIS)
 
-#2. Language Understanding Intelligent Service (LUIS) 
- 
- LUIS is an service which adds conversational intelligence to bots.Its possible to create
+LUIS is an service which adds conversational intelligence to bots.Its possible to create
  different features like intents and utterence in LUIS.With this feature we can train bot with many different Languages.
  
  It use mainly three key aspects of undestanding language:
@@ -83,9 +81,8 @@ Free unlimited transactions,with 10 transactions per second.
 Standard -50 per second 
         $ 1.50 for 1000 text messages
         $ 5.50 for 1000 voicemails.
- 
- #3. Text Analytics API
- 
+        
+# Text Analytics API
  This is used to find out the sentiment in a sentence or word.It is used in identifying 
  customer sentiments from their feedback on Product or Service.Text Analytics API is a Cognitive Service designed to 
 extract infromtaion from text.It use machine learning  algorithm to generate a sentiment score between 0 and 1.
@@ -99,8 +96,7 @@ extract infromtaion from text.It use machine learning  algorithm to generate a s
  https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/56f30ceeeda5650db055a3c6/console
  
  Pricing:
- Free:
-5,000 transactions per month
+ Free: 5,000 transactions per month
 
 Standard:
 0-500,000 messages - $ 2 for 1,000 messages
