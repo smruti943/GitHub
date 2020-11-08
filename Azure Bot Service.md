@@ -30,9 +30,9 @@ Bot Framework Composer is a visual designer that helps you build sophisticated c
 canvas for building bots.
 In this module, we will learn how to:
 
-create a basic bot with the composer
-work with dialogs
-use various cards within your bot
-integrate LUIS
+- create a basic bot with the composer
+- work with dialogs
+- use various cards within your bot
+- integrate LUIS
 
 
