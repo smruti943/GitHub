@@ -14,9 +14,25 @@ UseCase :
 3. Chatbot should be able to give user different options to choose
 
 Pricing:
-Free - 3 managed docuemts per month,3 tansacations per second,100 transactions per minute
+
+Free -   3 managed docuemts per month,3 tansacations per second,100 transactions per minute
+
 Standard - 10$ per month for unlimited managed documents,3 tansacations per second,100 transactions per minute 
 
+# Create a bot
+With Azure bot servie we will be able to create a bot and later integrate it to QnA maker. We have to create a resource called "Machine Learning" in azure.
+Once "Machine Learning" resource created,we create a compute instance for notebook.After creating the bot its possible to connect it to multiple channels; making it possible for 
+users to interact with it through web chat, email, Microsoft Teams, and other common communication media.
 
+
+# Create a Bot with the Bot Framework Composer
+Bot Framework Composer is a visual designer that helps you build sophisticated conversational bots without writing code. This is an open-source tool that presents a visual 
+canvas for building bots.
+In this module, we will learn how to:
+
+create a basic bot with the composer
+work with dialogs
+use various cards within your bot
+integrate LUIS
 
 
