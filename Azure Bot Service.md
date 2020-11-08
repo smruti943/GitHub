@@ -1,9 +1,9 @@
 # Create a Bot with the Bot Framework Composer Report 2
 # Smruti Sanjeeta Jena
 
-In this lab we will learn about QnA Maker and Azure Bot service.As we are designing chatbot which will act as afirst level of support
+In this lab we  learned about QnA Maker and Azure Bot service.As we are designing chatbot which will act as afirst level of support
 for users,it should act as human being.Means the way humans interacts with each other in a conversation. A typicall conversation is the exchange questions follwed by an answer.
-In simlar way we have to train our bot to understand questions from Users and serve them with appropriate answers. With Azure QnA maker we will be able to create a knowledge base for our service.We also able to creat a Bot with Bot Framework Composer
+In simlar way we have to train our bot to understand questions from Users and serve them with appropriate answers. With Azure QnA maker we will be able to create a knowledge base for our service.We also abled to creat a Bot with Bot Framework Composer
 
 # QnA Maker
 QnA Maker service enables to define and publish a knowledge base of questions and answers with support for natural language querying. We define questions and answer for our services. Defining as many questions and answers makes the bot understand better.Once all defined,we have to train the bot and test the knowledge base.After training, one can use the built-in test interface in the QnA Maker portal to test bot's knowledge base by submitting questions and reviewing the answers that are returned.Once we are sure about the training of bot we can publish the knowledge base over its REST interface.
