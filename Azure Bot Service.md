@@ -8,7 +8,7 @@ In simlar way we have to train our bot to understand questions from Users and se
 # QnA Maker
 QnA Maker service enables to define and publish a knowledge base of questions and answers with support for natural language querying. We define questions and answer for our services. Defining as many questions and answers makes the bot understand better.Once all defined,we have to train the bot and test the knowledge base.After training, one can use the built-in test interface in the QnA Maker portal to test bot's knowledge base by submitting questions and reviewing the answers that are returned.Once we are sure about the training of bot we can publish the knowledge base over its REST interface.
 
-UseCase :
+UseCase:
 1. Chatbot should will start with a "May I help you" message.
 2. Chatbot should first respond to user with Greetings
 3. Chatbot should be able to give user different options to choose
@@ -28,11 +28,19 @@ users to interact with it through web chat, email, Microsoft Teams, and other co
 # Create a Bot with the Bot Framework Composer
 Bot Framework Composer is a visual designer that helps you build sophisticated conversational bots without writing code. This is an open-source tool that presents a visual 
 canvas for building bots.
-In this module, we will learn how to:
+We will learn how to:
 
 - create a basic bot with the composer
 - work with dialogs
 - use various cards within your bot
 - integrate LUIS
+
+UseCase:
+1. Create a basic chatbot Who will greet you with your name,after you enter name.
+2. Chatbot should understand specific text and provide user with response.
+3. Chatbot should be able to trigger different responses based upon the input text.
+4. Chatbot shoul be able to show various cards to the user.
+5. Chatbot integrated with LUIS and learn from it.
+
 
 
