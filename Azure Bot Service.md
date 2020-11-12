@@ -36,7 +36,12 @@ We will learn how to:
 - work with dialogs
 - use various cards within your bot
 - integrate LUIS
+
+
 Here is a screen shot from our Simple Weather Bot.
+
+![image](https://user-images.githubusercontent.com/63377540/98999455-1d9a9b80-2538-11eb-84c4-f936283e6bd8.png)
+
 
 UseCase:
 1. Create a basic chatbot Who will greet you with your name,after you enter name.
