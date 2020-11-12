@@ -27,10 +27,11 @@ users to interact with it through web chat, email, Microsoft Teams, and other co
 
 # Create a Bot with the Bot Framework Composer
 Bot Framework Composer is a visual designer that helps you build sophisticated conversational bots without writing code. This is an open-source tool that presents a visual 
-canvas for building bots.
+canvas for building bots.In this frame work we can integrate Bot Framework Language Generation (LG) library. The Library contains various templates and message formats,which helps to include variation and dynamic contents.We can manage multiple greetings and manage tempalates for our bot.Below is the example of Dialoge framework:
+
 ![image](https://user-images.githubusercontent.com/63377540/98999588-55094800-2538-11eb-8c19-dfb31ddd6483.png)
 
-We will learn how to:
+We  learned how to:
 
 - create a basic bot with the composer
 - work with dialogs
