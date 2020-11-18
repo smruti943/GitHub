@@ -1,8 +1,0 @@
-# BankChatBot -TISA
-# Smruti Sanjeeta Jena
-
-Created a Bank chat bot named TISA. This bot helps user with basic questions related to their bank account and cards operations. Details about bank products and services. There are many more possibilities which can be added to this bot. For this bot we prepared two types of FAQ’s.
-This first FAQ’s is more general and created with basic question and answers related to any bank.
-For second FAQ,I took the format from “Citi Handlowy “ . Some of the answers have link to the bank website,which works perfectly. There are other links for bank website which works without any error.
-Our bot is created with the help of “Bot Framework Composer” . LUIS and QnA maker are integrated with the bot. Currently bot understand only English language, but it’s possible to create similar bot in other available languages. LUIS help us understand language sentiments.
-With QnA maker creating bot is very interesting. It allows to create knowledge base. Where we can upload file for FAQ’s. We choose Professional bot in QnA maker. Also its possible to create customised questions and answers. Even we can make a chain conversation with QnA maker. For specific answers we can create multiple key words and train our knowledge base. Also QnA maker allows to save hyperlinks as answers, which will show as link to user. If user clicks on the link, it will take to respective bank website. This feature in QnA maker makes it easy to integrate with bank website. So there is no additional development needed from bank to be able to implement this bot.  Our bot handles queries, which are not related to bank services as a professional.
