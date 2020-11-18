@@ -1,4 +1,4 @@
-# Process and Translate Speech with Azure Cognitive Speech Services
+# Process and Translate Speech with Azure Cognitive Speech Services- report 3
 # Smruti Sanjeeta Jena
 
 Speech translation is the process in which one spoken phrases is translated in to a different language.It is alos possible to say the translated word in loud.This kind of technology enable speaker of different language communicate with each other. 
@@ -10,8 +10,6 @@ Customer support
 Business intelligence
 Media subtitling
 Multilingual AI interactions
-
-# Speech Translation on Azure
 
 Azure Cognitive Services provides a robust machine learning and artificial intelligence-based services for speech translation in real time.
 
