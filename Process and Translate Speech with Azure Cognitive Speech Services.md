@@ -48,5 +48,12 @@ Our bot is created with the help of “Bot Framework Composer” . LUIS and QnA 
 
 With QnA maker creating bot is very interesting. It allows to create knowledge base. Where we can upload file for FAQ’s. We choose Professional bot in QnA maker. Also its possible to create customised questions and answers. Even we can make a chain conversation with QnA maker. For specific answers we can create multiple key words and train our knowledge base. Also QnA maker allows to save hyperlinks as answers, which will show as link to user. If user clicks on the link, it will take to respective bank website. This feature in QnA maker makes it easy to integrate with bank website. So there is no additional development needed from bank to be able to implement this bot.  Our bot handles queries, which are not related to bank services as a professional.        
     
+Screen shot from Bot Framework Composer
 
+![bankchatbot](https://user-images.githubusercontent.com/63377540/99473157-511b6280-294a-11eb-9afd-947f3d148ef0.PNG)
+
+
+Screen shot from Bot Framework Emulator
+
+![bot](https://user-images.githubusercontent.com/63377540/99473173-55478000-294a-11eb-8562-11ab974b786d.PNG)
 
