@@ -1,0 +1,7 @@
+{
+    "qna": {
+        "bankchatbot_en_us_qna": "51069cd0-cf1b-4fd5-b35b-6aa3fc1c3d64",
+        "hostname": "https://bankqnasmruti.azurewebsites.net/qnamaker",
+        "FAQ_source_en_us_qna": "51069cd0-cf1b-4fd5-b35b-6aa3fc1c3d64"
+    }
+}
