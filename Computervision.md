@@ -89,9 +89,35 @@ Audio, video analysis - $ 0.034 per day
 Video encoding - standard $ 0.015, premium $ 0.035
 Live processing - $ 0.034 per day
 Streaming - standard $ 2.15 per day, up to 600 Mbp, premium $ 4.64 per day, up to 200 Mbps per movie
+Content Protection - Depending on the service, $ 0.20 for 100 licenses or $ 0.10 for 100 keys
 
 ![image](https://user-images.githubusercontent.com/63377540/102924890-b0611b00-4492-11eb-9aa1-569259d4b780.png)
-Content Protection - Depending on the service, $ 0.20 for 100 licenses or $ 0.10 for 100 keys
+
+
+# Project ShopSystem - Custom Vision
+
+Shop system - assessment of the quality of the freshness of a product - e.g. a banana by its colour.  
+
+We created shop system using Custom Vision , which will identify fresh fruits and rotten fruits. There are three types of fruits namely banana , apple and pear. Images of these fruits are uploaded to Custom Vision. After upload we created different tags for each images. The tags are Fruit ,fresh banana , rotten banana ,fresh apple , rotten apple , fresh pear , rotten pear .  After tagging all images ,we train our model . Once training completed , we tested our model with some images . Custom Vision was able to identify the products with more than 50% accuracy .It is possible to include more product in the system and train it to get better result.  Once the system is published , it is possible to call the system  from other external systems.
+
+Use cases:
+
+1.	System should be able to identify basic fruits like apple , banana and pears etc.
+2.	System should be able to distinguish between fresh and rotten banana.
+3.	Distinguish between fresh apple and rotten apple.
+4.	Distinguish between fresh pear and rotten pear.
+
+Created an external app with azure to call custom vision, which can be accessed in https://shopsystem20201222195322.azurewebsites.net/
+
+
+![image](https://user-images.githubusercontent.com/63377540/102925012-ebfbe500-4492-11eb-9b0f-0c5003da16a0.png)
+![image](https://user-images.githubusercontent.com/63377540/102925186-3b421580-4493-11eb-9452-9aab9f017bae.png)
+![image](https://user-images.githubusercontent.com/63377540/102925285-5f9df200-4493-11eb-99f9-82e2039997d8.png)
+![image](https://user-images.githubusercontent.com/63377540/102925419-9ecc4300-4493-11eb-9b1e-8a640589c233.png)
+
+
+
+
 
 
 
