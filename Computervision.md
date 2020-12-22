@@ -32,15 +32,69 @@ Score: The likelihood or level of confidence that a face displays a specific emo
 Location: The top, left, height, and width of a region in the image that displays a face
 Computer vision service  also able to identify an image or painting .
 
-#Use Case:
+Use Case:
 
 1.	It should be possible to Identify faces in an image.
 2.	System should be able to identify the different type of emotions in a face image like happy, anger , sad etc.
 3.	It should be able to identify similar faces.
 4.	System should be able to read text from an image.
 Face API subscription need to be created before using the service. The subscription created in Azure portal with a resource.
+
 There are two pricing tiers :
 1.	Free with 20 calls per minute and 30K calls per month
 2.	Standard 10 calls per second. Estimated at 0.84 EUR / 1000 calls
+
+![image](https://user-images.githubusercontent.com/63377540/102924737-70019d00-4492-11eb-870c-9949737960e2.png)
+
+
+# Custom Vision:
+
+Custom Vision Service is among the newest members of the Cognitive Services suite. Its purpose is to create image classification
+models that learns from labelled image user provides. User can upload images and labelled the images appropriately. After labelling
+the image, user has to train the model and during training ,it creates iterations and shows the train results.
+
+![image](https://user-images.githubusercontent.com/63377540/102924786-83146d00-4492-11eb-9f33-052b698a4de1.png)
+
+Once training completes, it is possible to test by uploading one of the previously uploaded image . 
+System shows the tags on the image and shows the percentage of accuracy. If we test with any other similar image,
+custom vision will compare with available images and shows the results.Custom Vision Service portal allows user to create different projects.
+The features can be extended to third party with Custom visions API and REST frame work.
+
+There are two pricing tiers :
+
+1.	Free with 20 calls per minute and 5K calls per month
+2.	Standard 10 calls per second. Estimated at 0.84 EUR / 1000 calls
+Free - Free, allows you to make 2 transactions per second, 2 projects are allowed, 1 hour of network learning per month,
+maintaining 5,000 photos to learn and 10,000 transactions per month
+Standard - allows 10 transactions per second, price depends on the tasks performed, $ 2 per 1000 transactions,
+$ 20 per hour of teaching the network and $ 0.70 per 1000 photos.
+
+# Video Indexer :
+
+Azure Video Indexer is a service to extract insights from media. It uses machine learning models that can be further customized and trained.
+The video insights include face identification, text recognition, object labels, scene segmentations, and more. Additional insights are extracted
+from audio, such as transcription and emotion detection. You can use these results to improve search, extract clips, create thumbnails, and more.
+With Video Indexer it is possible to create different labels  present in the video. It is also possible to access the Video Indexer via API .
+Account Id and API Key are require to access API. These values can be collected from Video Indexer Developer portal.
+
+Use Case:
+
+1.	It should be possible to index the labels in the video.
+2.	It should be possible to get insights from the video.
+3.	It should be possible to identify transcripts from the audio.
+
+Pricing :
+
+Audio, video analysis - $ 0.034 per day
+Video encoding - standard $ 0.015, premium $ 0.035
+Live processing - $ 0.034 per day
+Streaming - standard $ 2.15 per day, up to 600 Mbp, premium $ 4.64 per day, up to 200 Mbps per movie
+
+![image](https://user-images.githubusercontent.com/63377540/102924890-b0611b00-4492-11eb-9aa1-569259d4b780.png)
+Content Protection - Depending on the service, $ 0.20 for 100 licenses or $ 0.10 for 100 keys
+
+
+
+
 
 
