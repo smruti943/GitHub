@@ -1,3 +1,5 @@
+# Smruti Sanjeeta Jena
+
 # Laboratorium Computer Vision in Microsoft Azure Report
 
 # Computer Vision API:
@@ -45,6 +47,8 @@ There are two pricing tiers :
 2.	Standard 10 calls per second. Estimated at 0.84 EUR / 1000 calls
 
 ![image](https://user-images.githubusercontent.com/63377540/102924737-70019d00-4492-11eb-870c-9949737960e2.png)
+
+![image](https://user-images.githubusercontent.com/63377540/102924968-d686bb00-4492-11eb-9afd-44510a141d5a.png)
 
 
 # Custom Vision:
@@ -94,9 +98,9 @@ Content Protection - Depending on the service, $ 0.20 for 100 licenses or $ 0.10
 ![image](https://user-images.githubusercontent.com/63377540/102924890-b0611b00-4492-11eb-9aa1-569259d4b780.png)
 
 
-# Project ShopSystem - Custom Vision
+# Project - ShopSystem - Custom Vision
 
-Shop system - assessment of the quality of the freshness of a product - e.g. a banana by its colour.  
+# Shop system - assessment of the quality of the freshness of a product - e.g. a banana by its colour.  
 
 We created shop system using Custom Vision , which will identify fresh fruits and rotten fruits. There are three types of fruits namely banana , apple and pear. Images of these fruits are uploaded to Custom Vision. After upload we created different tags for each images. The tags are Fruit ,fresh banana , rotten banana ,fresh apple , rotten apple , fresh pear , rotten pear .  After tagging all images ,we train our model . Once training completed , we tested our model with some images . Custom Vision was able to identify the products with more than 50% accuracy .It is possible to include more product in the system and train it to get better result.  Once the system is published , it is possible to call the system  from other external systems.
 
