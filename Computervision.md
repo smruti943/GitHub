@@ -121,7 +121,7 @@ Created an external app with azure to call custom vision, which can be accessed 
 
 
 
-
+Link to Youtube video : https://youtu.be/k4QK5nT2Ja4
 
 
 
