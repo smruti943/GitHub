@@ -110,11 +110,10 @@ Use cases:
 Created an external app with azure to call custom vision, which can be accessed in https://shopsystem20201222195322.azurewebsites.net/
 
 
-![image](https://user-images.githubusercontent.com/63377540/102925012-ebfbe500-4492-11eb-9b0f-0c5003da16a0.png)
-![image](https://user-images.githubusercontent.com/63377540/102925186-3b421580-4493-11eb-9452-9aab9f017bae.png)
-![image](https://user-images.githubusercontent.com/63377540/102925285-5f9df200-4493-11eb-99f9-82e2039997d8.png)
-![image](https://user-images.githubusercontent.com/63377540/102925419-9ecc4300-4493-11eb-9b1e-8a640589c233.png)
-
+![image](https://user-images.githubusercontent.com/63377540/102933445-8c0d3a80-44a2-11eb-9949-6bc3e0953b40.png)
+![image](https://user-images.githubusercontent.com/63377540/102933765-2a999b80-44a3-11eb-861c-39a930eff9cf.png)
+![image](https://user-images.githubusercontent.com/63377540/102933879-6d5b7380-44a3-11eb-90db-f3a99058a22b.png)
+![image](https://user-images.githubusercontent.com/63377540/102934079-c3301b80-44a3-11eb-92d3-045ab13251d8.png)
 
 
 
